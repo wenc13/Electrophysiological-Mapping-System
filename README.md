@@ -11,10 +11,13 @@ Requirements:
 - OpenGL
 
 Mainwindow:
-![](3DEMS/Mainwindow.png)
+
+![](3DEMS/Mainwindow.PNG)
 
 Mainmenu:
-![](3DEMS/3DEMS/Mainmenu.png)
+
+![](3DEMS/Mainmenu.PNG)
 
 Subwindow:
-![](3DEMS/3DEMS/Subindow.png)
+
+![](3DEMS/Subindow.PNG)
