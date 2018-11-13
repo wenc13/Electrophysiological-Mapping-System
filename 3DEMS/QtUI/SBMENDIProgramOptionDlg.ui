@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SBMENDIProgramOptionDlg</class>
+ <widget class="QDialog" name="SBMENDIProgramOptionDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>675</width>
+    <height>481</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>NDI Program options</string>
+  </property>
+  <widget class="QDialogButtonBox" name="buttonBox">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>440</y>
+     <width>193</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+   <property name="standardButtons">
+    <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_3">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>330</y>
+     <width>541</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Message options</string>
+   </property>
+   <widget class="QCheckBox" name="checkBox_ReportWhileTracking">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>541</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Display error messages while in tracking mode
+System needs to restart tracking for setting to take affect</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>200</y>
+     <width>541</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Beep options</string>
+   </property>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>31</x>
+      <y>30</y>
+      <width>491</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_3">
+       <item>
+        <widget class="QCheckBox" name="checkBox_BeepOnError">
+         <property name="text">
+          <string>Beep system on ERROR return</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_3">
+         <property name="text">
+          <string>Nunbers of:</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QSpinBox" name="spinBox_BeepOnErrorNum">
+         <property name="maximum">
+          <number>5</number>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_2">
+       <item>
+        <widget class="QCheckBox" name="checkBox_BeepOnWarning">
+         <property name="text">
+          <string>Beep system on WARNING return</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_2">
+         <property name="text">
+          <string>Nunbers of:</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QSpinBox" name="spinBox_BeepOnWarningNum">
+         <property name="maximum">
+          <number>5</number>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>40</y>
+     <width>541</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Logging to a file</string>
+   </property>
+   <widget class="QCheckBox" name="checkBox_LogToFile">
+    <property name="geometry">
+     <rect>
+      <x>13</x>
+      <y>28</y>
+      <width>307</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Log COM port communications to file</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="checkBox_DateStamp">
+    <property name="geometry">
+     <rect>
+      <x>13</x>
+      <y>91</y>
+      <width>171</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Include time stamp</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="checkBox_ClearlogFile">
+    <property name="geometry">
+     <rect>
+      <x>13</x>
+      <y>117</y>
+      <width>307</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Clear file on system initialization</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>14</x>
+      <y>55</y>
+      <width>501</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>File:</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit_FileName"/>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_Browser">
+       <property name="text">
+        <string>Browser</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>SBMENDIProgramOptionDlg</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>248</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>SBMENDIProgramOptionDlg</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>316</x>
+     <y>260</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
