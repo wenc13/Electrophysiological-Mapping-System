@@ -12,12 +12,12 @@ Requirements:
 
 Mainwindow:
 
-![](3DEMS/Mainwindow.PNG)
+![](3DEMS/Mainwindow.png)
 
 Mainmenu:
 
-![](3DEMS/Mainmenu.PNG)
+![](3DEMS/Mainmenu.png)
 
 Subwindow:
 
-![](3DEMS/Subindow.PNG)
+![](3DEMS/Subwindow.png)
