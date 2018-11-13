@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{632603c0-d0be-4f4f-b678-520d8186b445}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{c22abcc0-2e72-4ba2-a466-11086c6fd972}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SBMEColorDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEColorMappingBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMECoordinateRegistrationDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEDeformModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEECGAcquisitionDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEECGAcquisitionObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEECGControlPanelDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEECGPlayBackDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEECGProcessObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEGridPoints.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEMainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEMatrixComputation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDIAuxiliary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDIController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDIHandleCardDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDIProgramOptionDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDIRomFileDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDISerialPortSettingsDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMENDISystemFeaturesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEPoints3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEQGL3DEAModeling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEStereoProjectorControlPanelDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEUserDef.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBMEmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEColorDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEColorDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEColorMappingBar.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEColorMappingBar.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMECoordinateRegistrationDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMECoordinateRegistrationDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEECGAcquisitionDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEECGAcquisitionDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEECGAcquisitionObj.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEECGAcquisitionObj.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEECGControlPanelDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEECGControlPanelDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEECGPlayBackDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEECGPlayBackDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEECGProcessObj.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEECGProcessObj.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEMainWindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEMainWindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMENDIController.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMENDIController.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMENDIHandleCardDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMENDIHandleCardDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMENDIProgramOptionDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMENDIProgramOptionDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMENDIRomFileDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMENDIRomFileDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMENDISerialPortSettingsDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMENDISerialPortSettingsDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMENDISystemFeaturesDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMENDISystemFeaturesDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEQGL3DEAModeling.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEQGL3DEAModeling.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SBMEStereoProjectorControlPanelDlg.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SBMEStereoProjectorControlPanelDlg.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_3DEMS.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="SBMEColorDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEColorMappingBar.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMECoordinateRegistrationDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMEDeformModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="SBMEECGAcquisitionDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGAcquisitionObj.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGControlPanelDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGPlayBackDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGProcessObj.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMEGridPoints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SBMEMacroDefinition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="SBMEMainWindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMEMatrixComputation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SBMENDIAuxiliary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="SBMENDIController.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMENDIDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="SBMENDIHandleCardDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDIProgramOptionDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDIRomFileDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDISerialPortSettingsDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDISystemFeaturesDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMEPoints3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="SBMEQGL3DEAModeling.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMESerialPortBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="SBMEStereoProjectorControlPanelDlg.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="SBMEUserDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Usb2805.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="SBMEColorDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMECoordinateRegistrationDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGAcquisitionDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGControlPanelDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEECGPlayBackDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDIHandleCardDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDIProgramOptionDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDIRomFileDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDISerialPortSettingsDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMENDISystemFeaturesDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SBMEStereoProjectorControlPanelDlg.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="3DEMS.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="Images\3D">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\4MarkerProbe.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ANKE-logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\About.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CT">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cancel.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ColorBar.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Coordinate">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="EA">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ECG.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ECG2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Exit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Green.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Handle.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Handle2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Initialize">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Knob">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Load">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Model.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\NDI">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\NDI_Logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\NDItool.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\NewFile.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\OpenGL.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Orange.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Projector.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Projector2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Qt.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Registration.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ResetSystem.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\RigidBody1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\RigidBody2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="SROM.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\SerialPortSettings.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="System.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\THU-logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Tool.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Tool.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\Unload">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\activate.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\activationmap.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\analysis.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\application-exit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ball0.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ball1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ball2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\ball3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\binocular.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\clear.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\connect">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\freeze.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\options.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\pause.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\start.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="to.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\tracking.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\tracking2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\tracking3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Images\unfreeze.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneratedFiles\ui_SBMEColorDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMECoordinateRegistrationDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMEECGAcquisitionDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMEECGControlPanelDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMEECGPlayBackDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMENDIHandleCardDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMENDIProgramOptionDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMENDIRomFileDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMENDISerialPortSettingsDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMENDISystemFeaturesDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SBMEStereoProjectorControlPanelDlg.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\3D CT Model.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\3D EA Model.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\connect to.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Coordinate Registration.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Initialize System.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Knob Cancel.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Knob Green.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Knob Orange.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Load SROM.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Load Tool.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\NDI Handle.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\NDI Handle2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Unload Tool.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

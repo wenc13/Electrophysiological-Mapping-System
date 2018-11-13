@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/THU-logo.png</file>
+        <file>Images/3D CT Model.png</file>
+        <file>Images/3D EA Model.png</file>
+        <file>Images/4MarkerProbe.png</file>
+        <file>Images/About.png</file>
+        <file>Images/activate.png</file>
+        <file>Images/activationmap.png</file>
+        <file>Images/analysis.png</file>
+        <file>Images/ANKE-logo.png</file>
+        <file>Images/application-exit.png</file>
+        <file>Images/back.png</file>
+        <file>Images/ball0.png</file>
+        <file>Images/ball1.png</file>
+        <file>Images/ball2.png</file>
+        <file>Images/ball3.png</file>
+        <file>Images/binocular.png</file>
+        <file>Images/clear.png</file>
+        <file>Images/ColorBar.png</file>
+        <file>Images/connect to.png</file>
+        <file>Images/Coordinate Registration.png</file>
+        <file>Images/ECG.png</file>
+        <file>Images/ECG2.png</file>
+        <file>Images/Exit.png</file>
+        <file>Images/freeze.png</file>
+        <file>Images/Initialize System.png</file>
+        <file>Images/Knob Cancel.png</file>
+        <file>Images/Knob Green.png</file>
+        <file>Images/Knob Orange.png</file>
+        <file>Images/Load SROM.png</file>
+        <file>Images/Load Tool.png</file>
+        <file>Images/NDI Handle.png</file>
+        <file>Images/NDI Handle2.png</file>
+        <file>Images/NDI_Logo.png</file>
+        <file>Images/NDItool.png</file>
+        <file>Images/NewFile.png</file>
+        <file>Images/OpenGL.png</file>
+        <file>Images/options.png</file>
+        <file>Images/pause.png</file>
+        <file>Images/Projector.png</file>
+        <file>Images/Projector2.png</file>
+        <file>Images/Qt.png</file>
+        <file>Images/ResetSystem.png</file>
+        <file>Images/RigidBody1.png</file>
+        <file>Images/RigidBody2.png</file>
+        <file>Images/SerialPortSettings.png</file>
+        <file>Images/start.png</file>
+        <file>Images/Tool.png</file>
+        <file>Images/tracking.png</file>
+        <file>Images/tracking2.png</file>
+        <file>Images/tracking3.png</file>
+        <file>Images/unfreeze.png</file>
+        <file>Images/Unload Tool.png</file>
+    </qresource>
+</RCC>
