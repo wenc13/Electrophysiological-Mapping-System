@@ -9,3 +9,12 @@ cheng.wen.bupthu@gmail.com
 
 Requirements:
 - OpenGL
+
+Mainwindow:
+![](3DEMS/Mainwindow.png)
+
+Mainmenu:
+![](3DEMS/3DEMS/Mainmenu.png)
+
+Subwindow:
+![](3DEMS/3DEMS/Subindow.png)
