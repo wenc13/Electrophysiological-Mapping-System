@@ -1,4 +1,4 @@
-# 3DEMS
+# Electrophysiological Mapping System
 It is the implementation of three-dimensional electrophysiological mapping system.
 
 ## Installation:
