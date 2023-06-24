@@ -5,7 +5,7 @@ INSTALLATION:
 The code was developed on VS2012 and Qt5.2.1.
 
 CONTACT (feel free to contact me):
-cheng.wen.bupthu@gmail.com
+cheng.wen.bts@gmail.com
 
 Requirements:
 - OpenGL
