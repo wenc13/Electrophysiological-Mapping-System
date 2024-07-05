@@ -25,4 +25,4 @@ If you have any question, please feel free to contact me (cheng.wen.bts@gmail.co
 ![](3DEMS/Subwindow.png)
 
 ## License
-Our code is released under MIT License (see LICENSE file for details).
+The code is released under MIT License (see LICENSE file for details).
